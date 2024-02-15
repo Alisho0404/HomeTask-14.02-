@@ -1,0 +1,14 @@
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\bin\Debug\net8.0\Task5.exe
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\bin\Debug\net8.0\Task5.dll
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.dll
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Users\Alisho\Desktop\C# course\Week1\Day3(14.02)\HomeTask(14.02)\Task5\obj\Debug\net8.0\ref\Task5.dll
